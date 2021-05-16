@@ -31,3 +31,15 @@ https://docs.opencv.org/3.4/d0/d6c/tutorial_dnn_android.html
 using camera in openCV, android, simple code
 https://www.youtube.com/watch?v=A4-wkW54scM
 https://www.youtube.com/watch?v=ZTQBbnWkFV4
+
+
+
+%%%% preparing model %%%%%
+collect data-> label data
+labeling
+https://github.com/tzutalin/labelImg
+
+transform data and labels
+https://github.com/Tony607/object_detection_demo
+https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
+https://www.youtube.com/watch?v=kq2Gjv_pPe8 xml->csv- preparing tfrecords
