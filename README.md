@@ -43,3 +43,12 @@ transform data and labels
 https://github.com/Tony607/object_detection_demo
 https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
 https://www.youtube.com/watch?v=kq2Gjv_pPe8 xml->csv- preparing tfrecords
+
+my simple script is uploaded on this repo, u need to have the same file structures as me(hardcoded paths):
+images/train/your_images_with_labels_1
+images/test/your_images_with_labels_2
+data
+
+====Next Level=======
+
+
